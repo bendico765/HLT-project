@@ -8,7 +8,7 @@ The goal of this task is to develop models that can automatically identify consp
 
 Specifically, the ACTI task proposes the automatic identification of conspiracy content in the Italian language in Telegram. This task is organized according to two main subtasks
 
-**Subtask A: Conspiratorial Content Classification:** A system must recognize if a telegram
+[**Subtask A: Conspiratorial Content Classification:**](https://www.kaggle.com/competitions/acti-subtask-a/data?select=subtaskA_test.csv) A system must recognize if a telegram
 post is conspiratorial or not.
 
 * A sentence is _Conspiratorial_ if either (i) expresses the belief that major events(e.g., covid) are manipulation created by powerful people to protect their interests or (ii) an interpretation of events meant to contribute to strengthening the underlying narrative of the conspiracy theory.
